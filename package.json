@@ -30,6 +30,9 @@
     "title": "Build Badge",
     "webapp": "webapp.js"
   },
+  "dependencies": {
+    "request": "^2.40.0"
+  },
   "devDependencies": {
     "mocha": "~1.15.1",
     "expect.js": "~0.2.0",
